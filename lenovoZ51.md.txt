@@ -1,0 +1,22 @@
+Processeur :
+    Modèle : Intel Core i3-5005U
+    Fréquence : 2 Ghz
+Mémoire :
+    Taille : 4 GB
+Système d'exploitation :
+    Nom : Windows 10 Famille 64 Bits
+    Version : 20H2
+Stockage :
+    Partition 1 :
+        Nom : /C
+        Espace total : 930,03GB
+        Espace libre : 857,90GB
+        Type : NTFS
+    Partition 2 :
+        Nom : /
+        Espace total : 99MB
+        Espace libre : 99MB
+        Type : 
+Réseau :
+    Adresse IP externe : 86.213.124.18
+    Adresse IP Locale  : 192.168.1.18
